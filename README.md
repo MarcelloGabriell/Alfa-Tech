@@ -13,7 +13,7 @@ Visite o projeto em funcionamento: [AlfaTech Hosting](https://marcellogabriell.g
 ## ✨ Demonstração
 
 ### 💻 Desktop
-![Desktop View](./assets/screenshots/desktop.png)
+![web](https://github.com/user-attachments/assets/de344b4d-5f7a-4592-9e54-8360ce0b459a)
 
 ### 📱 Mobile
 ![Mobile View](./assets/screenshots/mobile.png)
