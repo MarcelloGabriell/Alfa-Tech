@@ -1,1 +1,106 @@
-# Alfa-Tech
+# 🚀 AlfaTech - Soluções em Hospedagem
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://web.dev/responsive-web-design-basics/)
+
+Um website moderno e responsivo para uma empresa de soluções em hospedagem. O projeto apresenta um design clean e profissional, com animações suaves e uma experiência de usuário intuitiva.
+
+## ✨ Demonstração 
+
+![web](https://github.com/user-attachments/assets/1d81d931-92bf-497f-8814-5afea829ab0a)
+![mobile](https://github.com/user-attachments/assets/f3889dbc-6c8c-479d-9d3b-9b53a830871c)
+
+
+
+## 🛠️ Características
+
+- **Design Responsivo**: Adaptação perfeita para todos os tamanhos de tela
+- **Animações Modernas**: 
+  - Efeito de flutuação suave no banner principal
+  - Transições elegantes nos botões e links
+  - Hover effects interativos
+- **Performance Otimizada**: Código limpo e otimizado para carregamento rápido
+- **UI/UX**: Interface intuitiva com foco na experiência do usuário
+- **Semântica**: HTML estruturado e semântico para melhor acessibilidade
+
+## 🎯 Seções
+
+- **Home**: Apresentação principal com banner animado
+- **Informações**: Detalhes sobre os serviços oferecidos
+- **Planos**: Diferentes opções de hospedagem
+- **Preços**: Tabela detalhada de preços e características
+- **Contato**: Informações para contato
+
+## 🚀 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+  - Flexbox
+  - Grid
+  - Animações e Transições
+  - Media Queries
+- Design Responsivo
+- Otimização para SEO
+
+## 💻 Pré-requisitos
+
+Antes de começar, verifique se você tem os seguintes requisitos:
+- Navegador web moderno
+- Editor de código (recomendado: VSCode)
+
+## 🔧 Instalação
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/alfatech-hosting.git
+```
+
+2. Navegue até o diretório do projeto:
+```bash
+cd alfatech-hosting
+```
+
+3. Abra o arquivo `index.html` em seu navegador ou use um servidor local.
+
+## 🎨 Layout e Design
+
+O projeto foi desenvolvido com foco em:
+- Paleta de cores profissional
+- Tipografia clara e legível
+- Espaçamento e alinhamento consistentes
+- Hierarquia visual efetiva
+- Animações sutis e funcionais
+
+## 📱 Responsividade
+
+O site é totalmente responsivo e foi testado em:
+- Dispositivos móveis (320px+)
+- Tablets (768px+)
+- Desktops (1024px+)
+- Telas maiores (1200px+)
+
+## 🤝 Contribuindo
+
+Contribuições são sempre bem-vindas! Para contribuir:
+
+1. Fork o projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Push para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 👨‍💻 Desenvolvedor
+
+Desenvolvido com 💙 por Marcello Gabriell.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-gabrell/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcelloGabriell)
+
+---
+
+⭐️ Se você gostou deste projeto, por favor, deixe uma estrela no GitHub! 
