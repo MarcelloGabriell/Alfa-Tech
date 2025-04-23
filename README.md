@@ -18,11 +18,6 @@ Visite o projeto em funcionamento: [AlfaTech Hosting](https://marcellogabriell.g
 ### 📱 Mobile
 ![Mobile View](./assets/screenshots/mobile.png)
 
-### ⚡ Animações
-![Animations](./assets/screenshots/animations.gif)
-
-> Para ver o site em ação, [clique aqui](https://seu-usuario.github.io/alfatech-hosting/)
-
 ## 🛠️ Características
 
 - **Design Responsivo**: Adaptação perfeita para todos os tamanhos de tela
