@@ -1,0 +1,250 @@
+/* Estilos Globais */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.limitar-secao {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+/* Topo da página */
+.topo {
+  background-color: #2f86d6;
+}
+
+.container-topo {
+  position: relative;
+  padding: 35px 0px;
+}
+
+.topo-logo {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.topo-logo img {
+  width: 80px;
+  transition: transform 0.3s ease;
+}
+
+.topo-logo img:hover {
+  transform: scale(1.1);
+}
+
+.topo-logo div {
+  margin-left: 15px;
+  transition: transform 0.3s ease;
+}
+
+.topo-logo div:hover {
+  transform: translateY(-2px);
+}
+
+.topo-links {
+  position: absolute;
+  top: 65px;
+  right: 0;
+}
+
+.topo-logo p {
+  color: #fff;
+  font-weight: 600;
+}
+
+.topo-links a {
+  font-size: 18px;
+  padding: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  color: #fff;
+}
+
+/* Seção conteúdo principal */
+.conteudo-principal {
+  padding: 50px 20px;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  position: relative;
+  background-color: #fff;
+}
+
+.conteudo-principal::-webkit-scrollbar {
+  height: 8px;
+}
+
+.conteudo-principal::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.conteudo-principal::-webkit-scrollbar-thumb {
+  background: #2f86d6;
+  border-radius: 4px;
+}
+
+/* Reset da tabela */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  min-width: 1000px;
+  margin: 0 auto;
+  background: #eef1f5;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+/* Cabeçalho */
+thead {
+  background-color: #e4e9f0;
+}
+
+thead tr {
+  background-color: #e4e9f0;
+}
+
+thead th {
+  background-color: #e4e9f0;
+  padding: 25px;
+  text-align: center;
+}
+
+.celula-escondida {
+  visibility: hidden;
+  width: 20%;
+}
+
+.celula-cabeçalho {
+  width: 20%;
+}
+
+.celula-cabeçalho p {
+  font-size: 14px;
+  font-weight: 500;
+  color: #808a98;
+  margin-bottom: 5px;
+}
+
+.celula-cabeçalho h2 {
+  font-size: 32px;
+  margin: 0;
+  color: #2c3e50;
+}
+
+/* Corpo da tabela */
+tbody td {
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #dde1e7;
+  background-color: #fff;
+}
+
+.primeira-celula {
+  background-color: #e4e9f0;
+  font-weight: 500;
+  text-align: left;
+  padding-left: 25px;
+}
+
+.marcador-azul {
+  width: 20px;
+  height: 20px;
+  margin: auto;
+  background-color: #2f86d6;
+  border-radius: 100px;
+  transition: transform 0.2s ease;
+}
+
+.marcador-azul:hover {
+  transform: scale(1.2);
+}
+
+/* Removendo bordas específicas */
+thead th {
+  border: none;
+}
+
+tbody tr:first-child td {
+  border-top: none;
+}
+
+.primeira-celula {
+  border-left: none;
+}
+
+/* Última coluna */
+tbody td:last-child {
+  border-right: none;
+}
+
+/* Última linha */
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Seção rodape */
+.rodape {
+  padding-top: 70px;
+  background-color: #2f86d6;
+}
+
+.rodape-logo {
+  position: relative;
+  width: 320px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+
+.rodape-logo img {
+  width: 80px;
+  transition: transform 0.3s ease;
+}
+
+.rodape-logo img:hover {
+  transform: scale(1.1);
+}
+
+.rodape-logo div {
+  margin-left: 15px;
+  transition: transform 0.3s ease;
+}
+
+.rodape-logo div:hover {
+  transform: translateY(-2px);
+}
+
+.rodape-logo p {
+  text-align: center;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.paragrafo-rodape {
+  text-align: center;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 20px 0 70px;
+}
+
+.container-copyright {
+  width: 100%;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  padding: 20px 0px;
+  background-color: #fff;
+}
+
+.container-copyright span {
+  color: #2f86d6;
+}

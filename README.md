@@ -6,12 +6,22 @@
 
 Um website moderno e responsivo para uma empresa de soluções em hospedagem. O projeto apresenta um design clean e profissional, com animações suaves e uma experiência de usuário intuitiva.
 
-## ✨ Demonstração 
+## 🌐 Acesse o Site
 
-![web](https://github.com/user-attachments/assets/1d81d931-92bf-497f-8814-5afea829ab0a)
-![mobile](https://github.com/user-attachments/assets/f3889dbc-6c8c-479d-9d3b-9b53a830871c)
+Visite o projeto em funcionamento: [AlfaTech Hosting](https://marcellogabriell.github.io/Alfa-Tech/)
 
+## ✨ Demonstração
 
+### 💻 Desktop
+![Desktop View](./assets/screenshots/desktop.png)
+
+### 📱 Mobile
+![Mobile View](./assets/screenshots/mobile.png)
+
+### ⚡ Animações
+![Animations](./assets/screenshots/animations.gif)
+
+> Para ver o site em ação, [clique aqui](https://seu-usuario.github.io/alfatech-hosting/)
 
 ## 🛠️ Características
 
@@ -96,10 +106,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Desenvolvedor
 
-Desenvolvido com 💙 por Marcello Gabriell.
+Desenvolvido com 💙 por [Seu Nome]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-gabrell/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcelloGabriell)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
 
 ---
 
