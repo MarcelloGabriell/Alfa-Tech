@@ -16,7 +16,8 @@ Visite o projeto em funcionamento: [AlfaTech Hosting](https://marcellogabriell.g
 ![web](https://github.com/user-attachments/assets/de344b4d-5f7a-4592-9e54-8360ce0b459a)
 
 ### 📱 Mobile
-![Mobile View](![image](https://github.com/user-attachments/assets/5500ac86-368e-469d-b402-205fb7a8a896)
+![image](https://github.com/user-attachments/assets/dc5d1b65-c714-4cf6-90b6-6ca2d7058988)
+
 )
 
 ## 🛠️ Características
