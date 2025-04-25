@@ -10,15 +10,6 @@ Um website moderno e responsivo para uma empresa de soluções em hospedagem. O 
 
 Visite o projeto em funcionamento: [AlfaTech Hosting](https://marcellogabriell.github.io/Alfa-Tech/)
 
-## ✨ Demonstração
-
-### 💻 Desktop
-![web](https://github.com/user-attachments/assets/de344b4d-5f7a-4592-9e54-8360ce0b459a)
-
-### 📱 Mobile
-![image](https://github.com/user-attachments/assets/dc5d1b65-c714-4cf6-90b6-6ca2d7058988)
-
-)
 
 ## 🛠️ Características
 
